@@ -1,14 +1,29 @@
-## 👩‍💻 Isabelly Pagels
-**` Analista de Dados | BI | Automação`**
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bc407b&height=120&section=header"/>
 
-Sou analista de dados com foco em **Business Intelligence, análise exploratória e automação de processos**.
-Tenho interesse em transformar dados em **insights claros para tomada de decisão**, utilizando ferramentas de BI, SQL e Python.
+<div align="left">
+  <h1>👩‍💻 Isabelly Pagels</h1>
+</div>
 
-📊 Atualmente estou construindo projetos voltados para:
-- Análise de dados
-- Dashboards interativos
-- Automação de relatórios
-- Estudos estatísticos aplicados
+**`Analista de Dados | BI | Python | SQL`**
+
+<div style="height: 3px; background-color: #30363d; margin: 20px 0;"></div>
+
+<img 
+  align="right" 
+  src="https://raw.githubusercontent.com/isapagels/isapagels/main/assets/coffee-data-pink.png.png" 
+  width="360" 
+  style="margin-top: 10px;" 
+/>
+
+### 💡 Sobre mim
+- 🎓 Graduada em **Ciência da Computação**
+- 📊 Foco em **Análise de Dados e Business Intelligence**
+- 📈 Experiência com **relatórios, dashboards e indicadores**
+- ⚙️ Interesse em **automação de processos e redução de tarefas manuais**
+- 🧠 Perfil analítico, organizada e orientada a dados
+- 🌱 Em constante evolução na área de dados
+
+<br clear="right"/>
 
 ---
 
@@ -27,16 +42,28 @@ Tenho interesse em transformar dados em **insights claros para tomada de decisã
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
     />
     <img 
-        alt="Pandas" 
-        title="Pandas"
+        alt="Power BI" 
+        title="Power BI"
         width="30px" 
-        src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/pandas/pandas-original-wordmark.svg" 
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" 
     />
     <img 
-        alt="Git" 
-        title="Git"
+        alt="Excel" 
+        title="Excel"
         width="30px" 
-        src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/git/git-original.svg" 
+        src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" 
+    />
+    <img 
+        alt="Matplotlib" 
+        title="Matplotlib"
+        width="30px" 
+        src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" 
+    /> 
+    <img 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/git/git-original.svg" 
     />
 </div>
 
@@ -77,3 +104,6 @@ Tenho interesse em transformar dados em **insights claros para tomada de decisã
 </div>
 
 </div>
+
+![Finish]<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bc407b&height=120&section=footer"/>
+
